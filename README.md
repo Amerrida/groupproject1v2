@@ -3,7 +3,7 @@
 Product Cards of Disney 
 
 ## Screenshots
-![main screenshot](images/triptodisneyworldnew.png)
+![main screenshot](https://raw.githubusercontent.com/Amerrida/groupproject1v2/master/Images/triptodisneyworldnew.png)
 
 ## How to run this project
 
