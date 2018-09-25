@@ -17,6 +17,7 @@ body{
 }
 .main-title{
     text-align: center;
+    border-color: lightblue;
 }
 
 .product-1{
@@ -24,26 +25,20 @@ body{
     margin:1%;
     border: 1px solid lightblue;
 }
-
- 
- 
-    
+     
     .product-1{
         width:30%;
         margin:1%;
         border: 1px solid lightblue;
-        box-shadow: -webkit-box-shadow: 10px 9px 5px -6px rgba(0,0,0,0.75);
         -moz-box-shadow: 10px 9px 5px -6px rgba(0,0,0,0.75);
         box-shadow: 10px 9px 5px -6px rgba(0,0,0,0.75);
     
     }
     
-    
     .price-title{
     font-size: 18px;
     font-weight:bold;
     }
-    
 
     .productImage-1{
         width:30%;
@@ -52,11 +47,20 @@ body{
         
     }
     
-
-}
 .productImage-1{
     width:30%;
     margin:1%;
     
     
+}
+
+.available-title{
+    background-color: gray;
+    color: yellow;
+
+}
+
+.product-price{
+    font-size: 18px;
+    font-weight:bold;
 }
