@@ -17,6 +17,7 @@ body{
 }
 .main-title{
     text-align: center;
+    border-color: lightblue;
 }
 
 .product-1{
@@ -59,4 +60,15 @@ body{
     margin:1%;
     
     
+}
+
+.available-title{
+    background-color: gray;
+    color: yellow;
+
+}
+
+.product-price{
+    font-size: 18px;
+    font-weight:bold;
 }
