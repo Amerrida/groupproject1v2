@@ -3,7 +3,7 @@
 Product Cards of Disney 
 
 ## Screenshots
-![main screenshot](images/trip-to-Disney-World.png)
+![main screenshot](/Images/Trip-to-Disney-World.png)
 
 ## How to run this project
 
