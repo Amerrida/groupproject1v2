@@ -1,9 +1,13 @@
-#version 2 of Project1 Trips
+# Product Cards
 
 Product Cards of Disney 
 
 ## Screenshots
+<<<<<<< HEAD
 ![main screenshot](images/triptodisneyworldnew.png)
+=======
+![main screenshot](/Images/Trip-to-Disney-World.png)
+>>>>>>> 798af21cf525f586dd3a7f2bb859019d6368c7a0
 
 ## How to run this project
 
